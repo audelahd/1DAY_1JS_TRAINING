@@ -1,6 +1,6 @@
 # 💛 JS Training 💛
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=fefd48&height=300&section=header&text=JavaScript%20Training&fontColor=ffffff&fontSize=70&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=ccd10c&height=300&section=header&text=JavaScript%20Training&fontColor=000000&fontSize=70&animation=fadeIn)
 
 ## :books: JS 꾸준히 연습하기
 :heavy_check_mark: JavaScript를 익숙하게 사용하기 위한 여러가지 내장함수 및 타입 테스트 <br>
